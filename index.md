@@ -14,7 +14,7 @@
 					</header>
 					
 					<content>
-						<p><a href"https://kaboci.github.io/i.md">menginstal arch linux</a></p>
+						<a href"https://kaboci.github.io/i.md">menginstal arch linux</a>
 						
 					</content>
 				
