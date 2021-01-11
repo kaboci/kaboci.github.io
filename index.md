@@ -10,7 +10,7 @@
 
 				<article class="content-2">	
 					<header>
-						<h2><a href="#" rel="bookmark" title="Permalink to this POST TITLE">Header post</a></h2>
+						<h2>Daftar Isi</h2>
 					</header>
 					
 					<content>
