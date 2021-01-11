@@ -8,12 +8,7 @@
 <div class="body">
 <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Lobster">
 
-	<header class="header">
-    <h1><kaboci</h1>
-    <img src="">
-		
-		
-	</header>
+	
 		
 	<div class="mainContent">
 		<div class="content">	
