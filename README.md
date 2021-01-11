@@ -3,6 +3,6 @@
 <title>kiss</title>
 </head>
 <body>
-Hello world!
+<p>Hello world!</p>
 </body>
 </html>
