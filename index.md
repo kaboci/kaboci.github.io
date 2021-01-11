@@ -8,7 +8,7 @@
 
 	<div class="mainContent">
 
-				<article class="content-2">	
+				<article class="content-1">	
 					<header>
 						<h2>Daftar Isi</h2>
 					</header>
