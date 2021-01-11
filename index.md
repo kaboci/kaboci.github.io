@@ -12,8 +12,6 @@
 					<header>
 						<h2><a href="#" rel="bookmark" title="Permalink to this POST TITLE">Header post</a></h2>
 					</header>
-
-
 					
 					<content>
 						<p>I asked an angel to guard you as you sleep, the angel replied and said angels don't guard angels, besides she's an higher angel. Love you my angel of angels.</p>
@@ -24,11 +22,9 @@
 				
 				</article>
 		</div>
-			
-				
 	
 	<footer class="footer">
-		<p>Copyright &copy; 2021 <a href="">kabocii</a></p>
+		<p>Copyright &copy; 2021 <a href="https://kaboci.github.io/">Optimized For Mobile</a></p>
 	</footer>
   
 </div>
