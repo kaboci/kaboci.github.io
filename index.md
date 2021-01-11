@@ -50,27 +50,7 @@
 				</article>
 		</div>
 			
-				<aside class="sidebar-1">
-					<article>
-					<h2>Sidebar 1</h2>
-					<p>You are my coca in the cola, My one and only, there are many fish in the sea but you're my only Nemo..</p>
-				    </article>
-				</aside>
 				
-				<aside class="sidebar-2">
-					<article>
-					<h2>Sidebar 2</h2>
-					<p>Tears may dry, Years may fly, But my love for you will never die.</p>
-				    </article>
-				</aside>				
-
-				<aside class="sidebar-3">
-					<article>
-					<h2>Sidebar 3</h2>
-					<p>Babe, sorry I didn't give you anything for valentine, I prefer my money remains mine.</p>
-				    </article>
-				</aside>	
-	</div>
 	
 	<footer class="footer">
 		<p>Copyright &copy; 2021 <a href="">kabocii</a></p>
