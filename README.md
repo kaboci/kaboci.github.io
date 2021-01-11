@@ -5,6 +5,6 @@
 </head>
 <body>
 <p>Hello world!</p>
-<a href="kaboci.github.io">kiss</a>
+<a href="https://kaboci.github.io/kiss.html">kiss</a>
 </body>
 </html>
