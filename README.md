@@ -1,7 +1,6 @@
-
 <html>
 <head>
-<tittle>kiss</title>
+<title>kiss</title>
 </head>
 <body>
 Hello world!
