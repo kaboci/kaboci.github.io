@@ -1,10 +1,10 @@
-<html>
+
 <head>
   <link rel="stylesheet" type="text/css" href="style.css">
   <script type="text/javascript" src="nav.js"></script>
 </head>
 
-<body>
+
 <div class="body">
 <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Lobster">
 
@@ -57,5 +57,3 @@
 	</footer>
   
 </div>
-</body>
-</html>
