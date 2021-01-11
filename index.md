@@ -14,10 +14,8 @@
 					</header>
 					
 					<content>
-						<p>I asked an angel to guard you as you sleep, the angel replied and said angels don't guard angels, besides she's an higher angel. Love you my angel of angels.</p>
-						<p>'I' stopped to pick a meaning of 'LOVE'. Just then,a paper dropped inscribed 'YOU'. A voice whispered, you're the best meaning of love.</p>
-            						<p>I asked an angel to guard you as you sleep, the angel replied and said angels don't guard angels, besides she's an higher angel. Love you my angel of angels.</p>
-						<p>'I' stopped to pick a meaning of 'LOVE'. Just then,a paper dropped inscribed 'YOU'. A voice whispered, you're the best meaning of love.</p>
+						<p><a href"https://kaboci.github.io/i.md">menginstal arch linux</a></p>
+						
 					</content>
 				
 				</article>
