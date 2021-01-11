@@ -11,14 +11,8 @@
 	<header class="header">
     <h1><kaboci</h1>
     <img src="">
-		<nav>
-      
-      <ul>
-			<li class="active"><a href="">Home</a></li>
-			<li><a href="" target="_blank">Portfolio</a></li>
-			<li><a href="" target="_blank">Blog</a></li>
-			<li><a href="" target="_blank">Contact</a></li>
-		</ul></nav>
+		
+		
 	</header>
 		
 	<div class="mainContent">
