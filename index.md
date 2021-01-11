@@ -8,7 +8,8 @@
 <div class="body">
 <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Lobster">
 
-	
+	<div class="mainContent">
+		
 		
 	
 
